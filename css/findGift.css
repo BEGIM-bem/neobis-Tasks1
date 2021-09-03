@@ -1,0 +1,61 @@
+.gift {
+    display: flex;
+    flex-wrap: wrap;
+
+}.findGift {
+    display: flex;
+    flex-wrap: wrap;
+
+    background: #F1F1F2;
+    justify-content: center;
+    width: 100%;
+
+  
+}
+
+.description-find {
+    display: flex;
+    flex-wrap: wrap;    
+    
+    padding-top: 110px;
+    padding-left: 10px;
+   
+    margin: auto;
+    width: 433px;
+}
+
+.img-find{
+    
+    height: 700px;
+    width: 675px;
+}
+
+.title-findGift {
+    font-size: 56px;
+    font-weight: bold;
+    margin-top: -100px;
+}
+
+.subtitle {
+    margin-top: 36px;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.btn-find {
+    margin-top: 52px;
+    
+   
+   
+    
+    background: #F7941E;
+    color: white;
+    padding: 10px 24px;
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+
+    border: none;
+    border-radius: 5px;
+}
+

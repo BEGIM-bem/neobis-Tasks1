@@ -1,0 +1,54 @@
+.description-gift {
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    padding-top: 96px;
+    padding-bottom: 64px;
+    margin: auto;
+    justify-content: center;
+
+}
+#title-gift {
+    font-size: 32px;
+}
+
+.text-gift {
+    font-size: 18px;
+    margin-top: 23px;
+}
+
+.cards-blog {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 137px;
+}
+
+.holiday {
+    width: 270px;
+    background: #FAFAFA;
+    margin-right: 30px;
+}
+
+.card-text {
+    width: 100px;
+    margin-top: 23px;
+    margin-left: 24px;
+    white-space:nowrap;
+}
+
+.card-link {
+    margin-top: 74px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+    font-size: 14px;
+}
+.card-link1 {
+    margin-top: 54px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+    font-size: 14px;
+}

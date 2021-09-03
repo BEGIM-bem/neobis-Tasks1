@@ -1,0 +1,52 @@
+.description-blogs {
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+    padding-top: 88px;
+    padding-bottom: 71px;
+    margin: auto;
+    justify-content: center;
+
+}
+#title-blog {
+    font-size: 32px;
+}
+
+.text-blog {
+    font-size: 18px;
+    margin-top: 23px;
+}
+
+.blogCardFeature{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wishes {
+    background: #231F20;
+    color: white;
+    
+    padding-left: 78px;
+    padding-top: 63px;
+    padding-bottom: 49px;
+    
+}
+
+.autor {
+    font-size: 14px;
+}
+
+.title-wishes {
+    width: 700px;
+    padding-top: 27px;
+    font-size: 46px;
+    padding-bottom: 60px;
+    padding-right: 200px;
+}
+
+.link-wishes {
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}

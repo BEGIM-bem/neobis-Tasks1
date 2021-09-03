@@ -1,0 +1,31 @@
+.navigation-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    margin: 27px 34px 27px 80px;
+}
+
+.links {
+    font-size: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 331px;
+
+    margin:  auto;
+    justify-content: space-between;
+}
+
+.btn-secondary {
+    color: #F7941E;
+    background: none;
+    border: 1px solid #F7941E;
+    border-radius: 5px;
+    height: 44px;
+    width: 150px;
+    font-size: 18px;    
+    white-space: nowrap;
+
+    padding: 5px 24px;
+
+}

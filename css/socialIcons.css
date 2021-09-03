@@ -1,0 +1,21 @@
+.img-icon {
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 296px;
+    margin: auto;
+    margin-bottom: 72px;
+    justify-content: space-between;
+
+}
+
+.copyright {
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+
+.year {
+    margin-right: 14px
+}

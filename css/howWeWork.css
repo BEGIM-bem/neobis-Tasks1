@@ -1,0 +1,55 @@
+
+.HowWeWork{
+    display: flex;
+    flex-wrap: wrap;
+
+    background: #F1F1F2;
+    margin: auto;
+    justify-content: center;
+    width: 100%;
+}
+
+.description-work {
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 441px;
+
+    margin-top: 164px;
+    margin-bottom: 104px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title-work {
+    font-size: 32px;
+}
+
+.text-work {
+    font-size: 20px;
+    line-height: 28px;
+
+    margin-top: 23px;
+}
+
+.btn-more {
+    color: #F7941E;
+    background: none;
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    white-space: nowrap;
+    
+    border-radius: 5px;
+    border: 1px solid #F7941E;
+    
+    padding: 10px 46px;
+    margin-top: 35px;
+}
+
+.img-work {
+    height: 619px;
+    width: 675px;
+
+  
+}

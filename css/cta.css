@@ -1,0 +1,42 @@
+.cta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    background: #F7941E;
+    width: 100%;
+
+}
+
+.cta-direction{
+    padding-top: 81px;
+    padding-bottom: 69px;
+    font-size: 32px;
+}
+
+.cta-ready{
+    font-weight: bold;
+}
+
+.btn-cta{
+    font-size: 18px;
+}   
+
+.cta-find{
+    background: #231F20;
+    color: white;
+    padding: 10px 32px;
+    
+    margin-right: 16px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.cta-how {
+    background: none;
+    padding: 10px 32px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
